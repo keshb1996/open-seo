@@ -8,7 +8,7 @@ Easy to self-host and extend, but we have a managed version too:
 
 ![OpenSEO demo (placeholder)](https://github.com/user-attachments/assets/6a928771-66ff-486b-b131-a54a3943985f)
 
-KSTN self-hosted instance: https://open-seo.keshavbhopla.workers.dev
+KSTN self-hosted instance link: https://open-seo.keshavbhopla.workers.dev 
 
 ## Table of Contents
 
