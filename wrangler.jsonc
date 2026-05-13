@@ -32,24 +32,24 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "4abd52f3f2c549ac83cc2cb4ceec8620",
+      "id": "8024dbb9a11944fd9d74fc735fd3048c",
     },
     {
       "binding": "OAUTH_KV",
-      "id": "bd1759494309474a9b423b029967b0db",
+      "id": "d40b604fc9ad4c668b32b3344541c62b",
     },
   ],
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "open-seo",
-      "database_id": "37bee90a-e1aa-404f-b01e-b0d1d479bda1",
+      "database_name": "open-seo-db",
+      "database_id": "23a4beff-f141-455f-a044-4fefd9522cd4",
       "migrations_dir": "drizzle",
     },
   ],
   "r2_buckets": [
     {
-      "bucket_name": "open-seo",
+      "bucket_name": "open-seo-cache",
       "binding": "R2",
     },
   ],
